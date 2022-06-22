@@ -16,9 +16,9 @@ const Register = (req, res) => {
     if(file){
         let fileName = Date.now() + file.img.name.replace(/\s/g, "")
         file.img.mv(path.join(__dirname, '../', 'uploads', 'ava', fileName))
-        body.avatar = `https://new-chat-najot-talim.herokuapp.com/ava/${fileName}`
+        body.avatar = `https://chatappnajottalim.herokuapp.com/ava/${fileName}`
     } else {
-        body.avatar = "https://new-chat-najot-talim.herokuapp.com/ava/simple.jpg"
+        body.avatar = "https://chatappnajottalim.herokuapp.com/ava/simple.jpg"
     }
     
     body.userId = users.length ? +users.at(-1).userId + 1 : 1

@@ -3,14 +3,14 @@
         "username": "said",
         "email": "said@gmail.com",
         "password": "08e667ee9093dc489c80c2eb6fa9aebe75e5e5e5c9b92e777586357ca43625a4",
-        "avatar": "https://new-chat-najot-talim.herokuapp.com/ava/1654434941748images.jpg",
+        "avatar": "https://chatappnajottalim.herokuapp.com/ava/1654434941748images.jpg",
         "userId": 1
     },
     {
         "username": "Shaxsod",
         "email": "aza@gmai.com",
         "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
-        "avatar": "https://new-chat-najot-talim.herokuapp.com/ava/1655898020358jamshid.jpg",
+        "avatar": "https://chatappnajottalim.herokuapp.com/ava/1655898020358jamshid.jpg",
         "userId": 2
     }
 ]
