@@ -1,0 +1,23 @@
+[
+    {
+        "userId": 1,
+        "type": "text",
+        "message": "Hammaga salom",
+        "date": "05.06.2022",
+        "time": "17:37",
+        "messageId": 1
+    },
+    {
+        "userId": "2",
+        "message": "",
+        "file": {
+            "view": "https://new-chat-najot-talim.herokuapp.com/view/1655900114397download.jpg",
+            "download": "https://new-chat-najot-talim.herokuapp.com/download/1655900114397download.jpg",
+            "name": "download.jpg"
+        },
+        "type": "file",
+        "date": "22.06.2022",
+        "time": "17:15",
+        "messageId": 2
+    }
+]
